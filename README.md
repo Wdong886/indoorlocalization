@@ -3,5 +3,7 @@ we propose an indoor visual localization method based on image-point cloud clust
 
 #Related Projects
 We sincerely thank the excellent projects:
+
 [IDC-DC for depth completion.](https://github.com/kujason/ip_basic)
+
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
